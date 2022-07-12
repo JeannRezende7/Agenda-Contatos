@@ -1,0 +1,28 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 575
+  Width = 763
+  object FDRealizaConexao: TFDConnection
+    Params.Strings = (
+      
+        'Database=D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Con' +
+        'tatos\Banco de Dados\BASE_FIREBIRD.FDB'
+      'User_Name=sysdba'
+      'Password=masterkey'
+      'DriverID=FB')
+    Connected = True
+    LoginPrompt = False
+    Left = 64
+    Top = 24
+  end
+  object FDConexaoTabela: TFDTable
+    Connection = FDRealizaConexao
+    TableName = 'CONTATOS'
+    Left = 64
+    Top = 96
+  end
+  object DataSourceConectaCampos: TDataSource
+    Left = 64
+    Top = 160
+  end
+end

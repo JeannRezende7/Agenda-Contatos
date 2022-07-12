@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/11 19:33:20.000.855,=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 19:34:48.000.204,D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\view\frm_principal.pas=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 19:34:48.000.204,D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\view\frm_principal.dfm=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/11 19:34:56.000.387,D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\AgendaContatos.dproj=C:\Users\Positivo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/07/11 19:37:20.000.431,=D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 19:37:51.000.928,D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\model\dm_dados.dfm=D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\Unit1.dfm</Transaction>
+    <Transaction>2022/07/11 19:37:51.000.928,D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\model\dm_dados.pas=D:\MINHA VIDA\ProjetosDelphi\Treinamentos\Agenda de Contatos\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
